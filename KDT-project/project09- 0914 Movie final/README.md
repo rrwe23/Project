@@ -8,4 +8,4 @@
 
 - 명학님과 프로젝트를 진행하면서 많은 배움과 동기부여를 얻었다. 많이 공부해야함을 다시 느꼈다.
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/70432152/190210091-c9a29e84-df8a-4ced-9b04-c7915d2d0cbf.gif)
+<img width="100%" src=![ezgif com-gif-maker](https://user-images.githubusercontent.com/70432152/190210091-c9a29e84-df8a-4ced-9b04-c7915d2d0cbf.gif)
